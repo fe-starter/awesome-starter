@@ -8,15 +8,9 @@
 </a>
 </p>
 
-## Resources
-
-### Official Resources
-
-- [Awesome Vue](https://github.com/vuejs/awesome-vue)
-
 ## Get Started
 
-### [Create Starter App](https://github.com/fe-starter/create-starter-app)
+### [Create Starter](https://github.com/fe-starter/create-starter)
 
 ### Templates
 
@@ -34,3 +28,8 @@
 #### React
 
 - [vite-react-tailwind-starter](https://github.com/sorxrob/vite-react-tailwind-starter) - Starter template with React and Tailwind CSS.
+- [next-fullstack-starter](https://github.com/egoist/next-fullstack-starter) - Next.js + Prisma + TailwindCSS + (Type-)GraphQL
+
+#### Node
+
+- [ts-starter](https://github.com/antfu/ts-starter) - Starter template for typescript with node
