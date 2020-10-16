@@ -33,3 +33,7 @@
 #### Node
 
 - [ts-starter](https://github.com/antfu/ts-starter) - Starter template for typescript with node
+
+#### svelte
+
+- [svelte-ts-tailwind-template](https://github.com/colinbate/svelte-ts-tailwind-template) - Svelte (v3) app template with TypeScript and TailwindCSS.
