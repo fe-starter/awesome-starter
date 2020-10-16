@@ -17,12 +17,8 @@
 #### Vue 3
 
 - [vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter) - Starter template with Tailwind CSS for fast prototyping.
-- [vite-component-test-starter](https://github.com/JessicaSachs/vite-component-test-starter) - Starter template with Vue Test Utils.
 - [vite-typescript-starter](https://github.com/ktsn/vite-typescript-starter) - Starter template with TypeScript.
-- [vite-vue-i18n-starter](https://github.com/intlify/vite-vue-i18n-starter) - Starter template with `vue-i18n`.
 - [vite-vueuse-starter](https://github.com/antfu/vite-vueuse-starter) - Starter template with VueUse and TypeScript.
-- [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite starter template.
-- [kirby-vue3-starterkit](https://github.com/johannschopplich/kirby-vue3-starterkit) - SPA starterkit with Vue 3 and Kirby.
 - [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Starter template with Vue 3, TypeScript and Electron.
 
 #### React
@@ -34,6 +30,6 @@
 
 - [ts-starter](https://github.com/antfu/ts-starter) - Starter template for typescript with node
 
-#### svelte
+#### Svelte
 
 - [svelte-ts-tailwind-template](https://github.com/colinbate/svelte-ts-tailwind-template) - Svelte (v3) app template with TypeScript and TailwindCSS.
